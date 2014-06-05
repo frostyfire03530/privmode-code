@@ -1,0 +1,8 @@
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\bin\Debug\Privmode Code.exe
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\bin\Debug\Privmode Code.pdb
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\Privmode_Code.MainForm.resources
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\Privmode Code.exe
+C:\Users\Frosty\Documents\SharpDevelop Projects\Cisco Priv Password Tool\Cisco Priv Password Tool\obj\Debug\Privmode Code.pdb
